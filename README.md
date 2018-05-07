@@ -1,2 +1,3 @@
 # rust
-Hello Rust
+
+Hello Rust!
